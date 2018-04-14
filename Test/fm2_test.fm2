@@ -1,0 +1,20 @@
+version 3
+emuVersion 20100
+rerecordCount 1
+palFlag 0
+romFilename Mega Man 5 (U)
+romChecksum base64:RIL7u8d+AyZrl59QKNS1HQ==
+guid 1AD09053-0749-569D-69E9-F03313E6C703
+fourscore 0
+port0 1
+port1 1
+port2 0
+|0|........|........||
+|0|R.......|........||
+|0|.L......|........||
+|0|..D.....|........||
+|0|...U....|........||
+|0|....T...|........||
+|0|.....S..|........||
+|0|......B.|........||
+|0|.......A|........||
