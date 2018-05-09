@@ -18,12 +18,4 @@ Edit: To facilitate debugging and faster development, the project is currently b
 
 [Trello](https://trello.com/b/v17woEFN/beagleplayer)
 
-[Doxygen](http://bmccool.bitbucket.org/BeaglePlayer/index.html)
-
-[Bitbucket](https://bitbucket.org/bmccool/beagleplayer)
-
-[Doxygen errors](http://bmccool.bitbucket.org/BeaglePlayer/UnitTestOutput.txt)
-
-[Test errors](http://bmccool.bitbucket.org/BeaglePlayer/UnitTestOutput.txt)
-
 [Cloud9](https://c9.io/)
